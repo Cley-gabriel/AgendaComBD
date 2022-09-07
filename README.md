@@ -1,4 +1,4 @@
-# Agenda com base de dados SQLite
+# Agenda telefonica com base de dados SQLite
 ##
 ##
 ##
